@@ -1,3 +1,9 @@
+.listcontainer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
 .listitem{
     border: solid;
     width: 89px;;
@@ -5,6 +11,7 @@
     padding: 5px;  
     display: flex;
     justify-content: center;  
+    text-align: center;
     background-color: lightgray;
     font-size: larger;
 }

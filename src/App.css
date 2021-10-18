@@ -1,5 +1,12 @@
-.App {
+.container{
+  display: flex;
+  justify-content: center;
   text-align: center;
+  flex-direction:column;
+}
+
+.containeritem{
+  background-color: blue;
 }
 
 .App-logo {
