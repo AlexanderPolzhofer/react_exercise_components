@@ -1,0 +1,10 @@
+.listitem{
+    border: solid;
+    width: 89px;;
+    margin-bottom: 3px;
+    padding: 5px;  
+    display: flex;
+    justify-content: center;  
+    background-color: lightgray;
+    font-size: larger;
+}
