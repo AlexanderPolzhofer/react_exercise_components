@@ -1,6 +1,6 @@
 .listcontainer{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
 }
 
@@ -10,7 +10,7 @@
     margin-bottom: 3px;
     padding: 5px;  
     display: flex;
-    justify-content: center;  
+    justify-content: space-evenly;  
     text-align: center;
     background-color: lightgray;
     font-size: larger;
